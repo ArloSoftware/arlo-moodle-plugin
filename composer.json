@@ -1,0 +1,22 @@
+{
+    "name": "arlo/moodle-enrol_arlo",
+    "description": "Arlo integration for Moodle",
+    "require": {
+        "guzzlehttp/guzzle": "^6.0",
+        "symfony/property-info": "^3.3",
+        "symfony/cache": "^3.3",
+        "symfony/property-access": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Troy Williams",
+            "email": "troy.williams@learningworks.co.nz",
+            "role": "Developer"
+        },
+        {
+            "name": "Mathew May",
+            "email": "mathew.may@learningworks.co.nz",
+            "role": "Developer"
+        }
+    ]
+}
